@@ -1,5 +1,11 @@
-### ## Hi, I'm Muhammad Idrees - Karachi [MI Dexigner][https://midexigner.com] 👋
+### ## Hi, I'm Muhammad Idrees - Karachi [MI Dexigner][website] 👋
 
+[website]: https://jangoebel.com
+[blog]: https://productioncoder.com
+[twitter]: https://twitter.com/productioncoder
+[youtube]: https://youtube.com/channel/UCFOmyIxUSbCqTLWoa4IODxw
+[linkedin]: https://www.linkedin.com/in/jan-goebel-15113b90
+[stackoverflow]: https://stackoverflow.com/users/2328833/productioncoder
 <!--
 **mi-dexigner/mi-dexigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
