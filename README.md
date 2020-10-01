@@ -1,4 +1,4 @@
-### ## Hi, I'm Muhammad Idrees - Karachi [MI Dexigner][website] 👋
+## Hi, I'm Muhammad Idrees - Karachi [MI Dexigner][website] 👋
 
 [website]: https://midexigner.com
 [blog]: https://productioncoder.com
@@ -7,6 +7,7 @@
 [linkedin]: https://www.linkedin.com/in/midexigner/
 [stackoverflow]: https://stackoverflow.com/users/2328833/productioncoder
 
+MI Dexigner is a premium design agency that focuses on quality, innovation, & speedy work.
 ## Connect with me
 [<img align="left" alt="my website: midexigner.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="my instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
