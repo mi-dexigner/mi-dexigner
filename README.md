@@ -1,4 +1,4 @@
-### ## Hi, I'm Muhammad Idrees - Karachi [midexigner][website] 👋
+### ## Hi, I'm Muhammad Idrees - Karachi [midexigner.com][website] 👋
 
 <!--
 **mi-dexigner/mi-dexigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
