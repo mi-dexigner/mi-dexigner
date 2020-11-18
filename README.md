@@ -13,6 +13,7 @@ MI Dexigner is a premium design agency that focuses on quality, innovation, & sp
 [<img align="left" alt="my instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="my Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="my LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Muhammad Idrees's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/midexigner)
 <!--
 **mi-dexigner/mi-dexigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
