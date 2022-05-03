@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Idrees
 Full Stack Developer
 -------------
 
-MI Dexigner is a premium design agency that focuses on quality, innovation, & speedy work.
+I’m a full-stack developer, trainer, and base in Karachi from Pakistan and working as a Senior staff for Ocean Software Pvt Ltd
 
 * 🌍  I'm based in Karachi
 * ✉️  You can contact me at [midexigner@gmail.com](mailto:midexigner@gmail.com)
@@ -55,4 +55,4 @@ MI Dexigner is a premium design agency that focuses on quality, innovation, & sp
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/midexigner"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- <a href="https://www.buymeacoffee.com/midexigner"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
