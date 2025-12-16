@@ -7,7 +7,7 @@ Full Stack Developer
 I’m a full-stack developer, trainer, and base in Karachi from Pakistan and working as a Senior staff for Ocean Software Pvt Ltd
 
 * 🌍  I'm based in Karachi
-* ✉️  You can contact me at [midexigner@gmail.com](mailto:midexigner@gmail.com)
+* ✉️  You can contact me at [hello@midexigner.com](mailto:hello@midexigner.com)
 * 🧠  I'm learning Python
 
 ### Skills
